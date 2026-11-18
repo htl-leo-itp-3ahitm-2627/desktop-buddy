@@ -1,6 +1,6 @@
 # Luna: Desktop Buddy
 
-Luna is an agentic AI helper for students, optimized for HTL Leonding students, that can integrate in common 
+Luna is an agentic AI helper for students, optimized for HTL Leonding students, that can integrate in common school software.
 
 ![Status](https://img.shields.io/badge/Status-in%20work-orange?style=for-the-badge)
 ![Class](https://img.shields.io/badge/Class-3AHITM-blue?style=for-the-badge)
@@ -35,7 +35,7 @@ Pupils and Students - optimized for HTL Leonding students
 
 ### Not part of the project
 
-* no server - everything stays on your device
+* no server - we don't save anything about you!
 
 ## Tech-Stack
 
