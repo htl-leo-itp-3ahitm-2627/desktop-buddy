@@ -11,14 +11,14 @@ Luna is an agentic AI helper for students, optimized for HTL Leonding students, 
 
 | Name              | GitHub                                                                   | Role / Focus                                  |
 | ----------------- | ------------------------------------------------------------------------ | --------------------------------------------- |
-| Benjamin Hartmann | [@BenjaminDerProgrammierer](https://github.com/BenjaminDerProgrammierer) | AI-Chat, Integrations                         |
+| Benjamin Hartmann | [@BenjaminDerProgrammierer](https://github.com/BenjaminDerProgrammierer) | Project lead, AI-Chat, Integrations           |
 | Bernhard Focke    | [@BernhardFocke](https://github.com/BernhardFocke)                       | Design, Integrations                          |
 | Tamas Liptak      | [@tamasLiptak](https://github.com/tamasLiptak)                           | Character Design, Character Display, Database |
 
 
 ## What's this about?
 
-### Problems
+### Problems we try to solve
 
 * Different services for tasks like homework, learning for an exam, ... - To-Dos get unorganized
 * AI Chat can't answer about specific subjects like a teacher would
@@ -31,13 +31,23 @@ Pupils and Students - optimized for HTL Leonding students
 
 - AI Integration - connect ChatGPT, Claude, and more!
 - App Integrations - connect Notion, Moodle, WebUntis, and more!
-- Character On Desktop - always ready just for you! 
+- Character On Desktop - always ready just for you!
+
+### Our unique selling point
+
+We combine different school-related programs and services into a single, always available companion.
 
 ### Not part of the project
 
 * no server - we don't save anything about you!
 
-## Tech-Stack
+### Goals and Milestones
+
+See [issues](https://github.com/htl-leo-itp-3ahitm-2627/desktop-buddy/issues)
+
+For the full feature list, see [Milestone v0.1](https://github.com/htl-leo-itp-3ahitm-2627/desktop-buddy/milestone/1)
+
+## Planned Tech-Stack
 
 | Area                 | Technology  | new for us? |
 | -------------------- | ----------- | ----------- |
@@ -45,8 +55,6 @@ Pupils and Students - optimized for HTL Leonding students
 | Frontend             | React       | no          |
 | Desktop Integration  | Electron    | yes         |
 | Database             | SQLite      | yes         |
-
----
 
 ## Getting Started
 
